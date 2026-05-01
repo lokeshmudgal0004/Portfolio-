@@ -1,16 +1,69 @@
-# React + Vite
+# 🌐 Lokesh Mudgal – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio showcasing my projects, skills, and achievements in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+👉 (https://portfolio-mauve-tau-c7nq7jkbf2.vercel.app/)  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
+I am a B.Tech student in Artificial Intelligence & Machine Learning at NIT Kurukshetra.  
+I have experience in:
+- Full-stack web development  
+- Deep learning & computer vision  
+- Competitive programming  
 
-## Expanding the ESLint configuration
+I enjoy solving complex problems and building real-world applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js  
+- **Database:** MongoDB  
+- **Tools:** Git, VS Code, Cloudinary  
+
+---
+
+## 📂 Projects
+
+### 📌 Attendance Manager
+Full-stack web application for managing attendance with JWT authentication and Cloudinary integration.
+
+### 📌 3D Lung Tumor Detection
+Deep learning-based pipeline for detecting tumors from 3D medical images.
+
+### 📌 Automatic License Plate Recognition
+YOLO + OCR based system for detecting and reading license plates.
+
+### 📌 Collectibles (NFT Platform)
+Blockchain-based NFT marketplace built using Solidity and React.
+
+---
+
+## 🏆 Achievements
+- Solved **800+ problems** on LeetCode  
+- CodeChef **3★ (1630)**  
+- Codeforces **Pupil (1340)**  
+- LeetCode **Knight (1878)**  
+
+---
+
+## 📬 Contact
+- 📧 Email: luvkushmudgal@gmail.com  
+- 📱 Phone: +91 7976046003  
+- 💻 GitHub: https://github.com/lokeshmudgal0004  
+- 🔗 LinkedIn: https://linkedin.com/in/lokesh-mudgal  
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/your-username/portfolio-website.git
+cd portfolio-website
+npm install
+npm run dev
