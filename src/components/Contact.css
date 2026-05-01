@@ -1,0 +1,24 @@
+/* Section */
+.contact {
+  padding: 80px 20px; /* py-20 px-6 */
+}
+
+/* Container */
+.contact-container {
+  max-width: 1000px; /* max-w-5xl */
+  margin: 0 auto;
+}
+
+/* Title */
+.contact-title {
+  font-size: 30px; /* text-3xl */
+  font-weight: bold;
+  margin-bottom: 24px; /* mb-6 */
+}
+
+/* Text */
+.contact-text {
+  color: #4a5568; /* text-gray-700 */
+  margin-bottom: 8px;
+  font-size: 16px;
+}

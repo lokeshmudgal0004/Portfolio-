@@ -1,0 +1,24 @@
+/* Section spacing */
+.about {
+  padding: 80px 20px; /* py-20 px-6 approx */
+}
+
+/* Container */
+.about-container {
+  max-width: 1000px; /* max-w-5xl */
+  margin: 0 auto;
+}
+
+/* Title */
+.about-title {
+  font-size: 30px; /* text-3xl */
+  font-weight: bold;
+  margin-bottom: 24px; /* mb-6 */
+}
+
+/* Text */
+.about-text {
+  color: #4a5568; /* text-gray-700 */
+  line-height: 1.7; /* leading-relaxed */
+  font-size: 16px;
+}

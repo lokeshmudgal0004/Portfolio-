@@ -1,0 +1,67 @@
+/* Section */
+.hero {
+  height: 100vh; /* h-screen */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 24px; /* px-6 */
+}
+
+/* Title */
+.hero-title {
+  font-size: 48px; /* text-5xl */
+  font-weight: bold;
+  margin: 0;
+}
+
+/* Highlight name */
+.highlight {
+  color: #2563eb; /* text-blue-600 */
+}
+
+/* Subtitle */
+.hero-subtitle {
+  margin-top: 16px; /* mt-4 */
+  font-size: 18px; /* text-lg */
+  color: #4b5563; /* text-gray-600 */
+  max-width: 600px; /* max-w-xl */
+  line-height: 1.6;
+}
+
+/* Buttons container */
+.hero-buttons {
+  display: flex;
+  gap: 16px; /* gap-4 */
+  margin-top: 24px; /* mt-6 */
+}
+
+/* Base button */
+.btn {
+  padding: 12px 24px; /* px-6 py-3 */
+  border-radius: 8px; /* rounded-lg */
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+/* Primary button */
+.primary-btn {
+  background-color: #000;
+  color: #fff;
+}
+
+.primary-btn:hover {
+  background-color: #333;
+}
+
+/* Secondary button */
+.secondary-btn {
+  border: 1px solid #374151; /* border-gray-700 */
+  color: #111;
+}
+
+.secondary-btn:hover {
+  background-color: #f3f4f6;
+}
