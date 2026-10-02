@@ -3,7 +3,7 @@ import "./Achievements.css";
 const achievements = [
   {
     title: "LeetCode",
-    value: "800+ Problems",
+    value: "1100+ Problems",
     desc: "Strong problem-solving across data structures & algorithms",
   },
   {
