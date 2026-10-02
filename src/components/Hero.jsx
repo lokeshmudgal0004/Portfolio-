@@ -24,7 +24,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://leetcode.com/lokeshmudgal0004"
+          href="https://leetcode.com/u/lokesh_mudgal"
           target="_blank"
           rel="noopener noreferrer"
           className="btn secondary-btn"
